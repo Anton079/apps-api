@@ -1,4 +1,5 @@
-﻿using apps_api.Apps.Models;
+﻿using apps_api.Apps.Dtos;
+using apps_api.Apps.Models;
 using apps_api.Apps.Repository;
 using apps_api.Data.Migrations;
 using AutoMapper;
@@ -21,5 +22,20 @@ namespace apps_api.Apps.Repository
         {
             return await _appDbContext.Apps.ToListAsync();
         }
+
+        public async Task<AppResponse> CreateAppAsync(AppRequest appReq)
+        {
+            App app = _mapper.Map<App>(appReq);
+
+            _appDbContext.Apps.Add(app);
+
+            await _appDbContext.SaveChangesAsync();
+
+            AppResponse response = _mapper.Map<AppResponse>(app);
+
+            return response;
+        }
+
+
     }
 }

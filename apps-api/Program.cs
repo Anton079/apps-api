@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using FluentMigrator.Runner;
 using apps_api.Data.Migrations;
-using apps_api.App.Repository;
+using apps_api.Apps.Repository;
 
 public class Program
 {
@@ -27,7 +27,7 @@ public class Program
         options.UseMySql(builder.Configuration.GetConnectionString("Default")!,
         new MySqlServerVersion(new Version(8, 0, 21))));
 
-        builder.Services.AddScoped<AppRepo, AppRepo>();
+        builder.Services.AddScoped<IAppRepo, AppRepo>();
 
         builder.Services.AddFluentMigratorCore()
             .ConfigureRunner(rb => rb.AddMySql5()

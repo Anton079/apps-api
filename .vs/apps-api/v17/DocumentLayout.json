@@ -3,6 +3,42 @@
   "WorkspaceRootPath": "C:\\mycode\\asp.net\\apps-api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|c:\\mycode\\asp.net\\apps-api\\apps-api\\apps\\mapers\\appsmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|solutionrelative:apps-api\\apps\\mapers\\appsmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|c:\\mycode\\asp.net\\apps-api\\apps-api\\apps\\dtos\\appresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|solutionrelative:apps-api\\apps\\dtos\\appresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|c:\\mycode\\asp.net\\apps-api\\apps-api\\apps\\dtos\\apprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|solutionrelative:apps-api\\apps\\dtos\\apprequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|c:\\mycode\\asp.net\\apps-api\\apps-api\\apps\\models\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|solutionrelative:apps-api\\apps\\models\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|c:\\mycode\\asp.net\\apps-api\\apps-api\\apps\\repository\\iapprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|solutionrelative:apps-api\\apps\\repository\\iapprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|c:\\mycode\\asp.net\\apps-api\\apps-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|solutionrelative:apps-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|c:\\mycode\\asp.net\\apps-api\\apps-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|solutionrelative:apps-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|c:\\mycode\\asp.net\\apps-api\\apps-api\\apps-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|solutionrelative:apps-api\\apps-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|c:\\mycode\\asp.net\\apps-api\\apps-api\\data\\migrations\\createschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|solutionrelative:apps-api\\data\\migrations\\createschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|c:\\mycode\\asp.net\\apps-api\\apps-api\\data\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|solutionrelative:apps-api\\data\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,32 +47,8 @@
       "RelativeMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|solutionrelative:apps-api\\apps\\repository\\apprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|c:\\mycode\\asp.net\\apps-api\\apps-api\\apps\\repository\\iapprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|solutionrelative:apps-api\\apps\\repository\\iapprepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|c:\\mycode\\asp.net\\apps-api\\apps-api\\apps\\models\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|solutionrelative:apps-api\\apps\\models\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|c:\\mycode\\asp.net\\apps-api\\apps-api\\data\\migrations\\createschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|solutionrelative:apps-api\\data\\migrations\\createschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|c:\\mycode\\asp.net\\apps-api\\apps-api\\apps\\controllers\\appcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|solutionrelative:apps-api\\apps\\controllers\\appcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|c:\\mycode\\asp.net\\apps-api\\apps-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|solutionrelative:apps-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|c:\\mycode\\asp.net\\apps-api\\apps-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|solutionrelative:apps-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|c:\\mycode\\asp.net\\apps-api\\apps-api\\apps-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|solutionrelative:apps-api\\apps-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EA218E7C-6886-49F8-8E99-02B71EDDAFBB}|apps-api\\apps-api.csproj|c:\\mycode\\asp.net\\apps-api\\apps-api\\apps-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -50,23 +62,61 @@
       "DocumentGroups": [
         {
           "DockedWidth": 235,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "AppsMappingProfile.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\apps-api\\apps-api\\Apps\\Mapers\\AppsMappingProfile.cs",
+              "RelativeDocumentMoniker": "apps-api\\Apps\\Mapers\\AppsMappingProfile.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\apps-api\\apps-api\\Apps\\Mapers\\AppsMappingProfile.cs",
+              "RelativeToolTip": "apps-api\\Apps\\Mapers\\AppsMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T02:49:57.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppResponse.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\apps-api\\apps-api\\Apps\\Dtos\\AppResponse.cs",
+              "RelativeDocumentMoniker": "apps-api\\Apps\\Dtos\\AppResponse.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\apps-api\\apps-api\\Apps\\Dtos\\AppResponse.cs",
+              "RelativeToolTip": "apps-api\\Apps\\Dtos\\AppResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T02:34:48.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppRequest.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\apps-api\\apps-api\\Apps\\Dtos\\AppRequest.cs",
+              "RelativeDocumentMoniker": "apps-api\\Apps\\Dtos\\AppRequest.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\apps-api\\apps-api\\Apps\\Dtos\\AppRequest.cs",
+              "RelativeToolTip": "apps-api\\Apps\\Dtos\\AppRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T02:34:39.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\apps-api\\apps-api\\Program.cs",
               "RelativeDocumentMoniker": "apps-api\\Program.cs",
               "ToolTip": "C:\\mycode\\asp.net\\apps-api\\apps-api\\Program.cs",
               "RelativeToolTip": "apps-api\\Program.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAgwCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T15:25:54.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "apps-api.csproj",
               "DocumentMoniker": "C:\\mycode\\asp.net\\apps-api\\apps-api\\apps-api.csproj",
               "RelativeDocumentMoniker": "apps-api\\apps-api.csproj",
@@ -86,50 +136,47 @@
               "RelativeToolTip": "apps-api\\Apps\\Models\\App.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T15:25:24.398Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T15:25:24.398Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "AppController.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\apps-api\\apps-api\\Apps\\Controllers\\AppController.cs",
               "RelativeDocumentMoniker": "apps-api\\Apps\\Controllers\\AppController.cs",
               "ToolTip": "C:\\mycode\\asp.net\\apps-api\\apps-api\\Apps\\Controllers\\AppController.cs",
               "RelativeToolTip": "apps-api\\Apps\\Controllers\\AppController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-15T15:24:59.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IAppRepo.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\apps-api\\apps-api\\Apps\\Repository\\IAppRepo.cs",
               "RelativeDocumentMoniker": "apps-api\\Apps\\Repository\\IAppRepo.cs",
               "ToolTip": "C:\\mycode\\asp.net\\apps-api\\apps-api\\Apps\\Repository\\IAppRepo.cs",
               "RelativeToolTip": "apps-api\\Apps\\Repository\\IAppRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T15:24:21.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T15:24:21.312Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "AppRepo.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\apps-api\\apps-api\\Apps\\Repository\\AppRepo.cs",
               "RelativeDocumentMoniker": "apps-api\\Apps\\Repository\\AppRepo.cs",
               "ToolTip": "C:\\mycode\\asp.net\\apps-api\\apps-api\\Apps\\Repository\\AppRepo.cs",
               "RelativeToolTip": "apps-api\\Apps\\Repository\\AppRepo.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAD4vxMAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T15:24:13.311Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T15:24:13.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "apps-api.http",
               "DocumentMoniker": "C:\\mycode\\asp.net\\apps-api\\apps-api\\apps-api.http",
               "RelativeDocumentMoniker": "apps-api\\apps-api.http",
@@ -153,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "CreateSchema.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\apps-api\\apps-api\\Data\\Migrations\\CreateSchema.cs",
               "RelativeDocumentMoniker": "apps-api\\Data\\Migrations\\CreateSchema.cs",
@@ -161,12 +208,11 @@
               "RelativeToolTip": "apps-api\\Data\\Migrations\\CreateSchema.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T15:22:24.454Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T15:22:24.454Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\apps-api\\apps-api\\Data\\Migrations\\AppDbContext.cs",
               "RelativeDocumentMoniker": "apps-api\\Data\\Migrations\\AppDbContext.cs",
@@ -174,8 +220,7 @@
               "RelativeToolTip": "apps-api\\Data\\Migrations\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-15T15:21:38.689Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-15T15:21:38.689Z"
             }
           ]
         }
